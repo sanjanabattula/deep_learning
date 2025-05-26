@@ -17,7 +17,7 @@ LiteResNet is a lightweight convolutional neural network based on the ResNet arc
 ### 3. Adversarial Attacks on Deep Learning Models
 This project implements and evaluates adversarial attack methods on a ResNet-34 classifier trained on the ImageNet-1K dataset. Techniques include FGSM, iterative attacks, patch-based attacks, and transferability analysis.
 
-- Location: `adversarial_attacks/`
+- Location: `Adversarial_attacks/`
 
 ---
 
